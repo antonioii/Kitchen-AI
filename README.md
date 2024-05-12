@@ -1,6 +1,6 @@
 # Kitchen-AI
 ![KitchenAI - Imagem gerada no Leonardo.AI](./Default_A_cartoon_robot_wearing_chef_clothes_gourmet_hat_has_a_2.png)
-
+(gerado pelo Leonardo.AI)
 
 ### **O Chef de IA que te guia passo a passo!**
 
