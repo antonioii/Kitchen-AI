@@ -1,9 +1,11 @@
 # Kitchen-AI
-![KitchenAI](./Default_A_cartoon_robot_wearing_chef_clothes_gourmet_hat_has_a_2.png)
+![KitchenAI - Imagem gerada no Leonardo.AI](./Default_A_cartoon_robot_wearing_chef_clothes_gourmet_hat_has_a_2.png)
+
 
 ### **O Chef de IA que te guia passo a passo!**
 
-Este projeto foi desenvolvido durante a **Imersão Dev**, utilizando os conhecimentos adquiridos até a aula 4 sobre o uso da API do Gemini (Google), e o mais impressionante: **em apenas uma hora!** 🤯 (Gostaria de ter tido mais tempo, mas isso já mostra o quão poderosa é essa ferramenta)
+Este projeto foi desenvolvido durante a **Imersão Dev** de IA da Alura em parceria com o Google (maio/2024), utilizando os conhecimentos adquiridos até a aula 4 sobre o uso da API do Gemini (Google ©), e o mais impressionante: **em apenas uma hora!** 🤯 (aproximadamente, eu gostaria de ter tido mais tempo, mas isso já mostra o quão poderosa é essa ferramenta).
+
 <br>
 > O Kitchen-AI é um sistema de inteligência artificial que te ajuda a cozinhar, com instruções claras e detalhadas. 
    
