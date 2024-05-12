@@ -1,6 +1,6 @@
 # Kitchen-AI
 ## Kitchen-AI
-![Legenda da imagem]("./Default_A_cartoon_robot_wearing_chef_clothes_gourmet_hat_has_a_2.png")
+[![KitchenAI](./Default_A_cartoon_robot_wearing_chef_clothes_gourmet_hat_has_a_2.png)]
 
 ### **O Chef de IA que te guia passo a passo!**
 
