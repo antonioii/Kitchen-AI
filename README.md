@@ -1,5 +1,4 @@
 # Kitchen-AI
-## Kitchen-AI
 ![KitchenAI](./Default_A_cartoon_robot_wearing_chef_clothes_gourmet_hat_has_a_2.png)
 
 ### **O Chef de IA que te guia passo a passo!**
@@ -10,7 +9,7 @@ Este projeto foi desenvolvido durante a **Imersão Dev**, utilizando os conhecim
    
 ---
 
-####**Como funciona?**
+##**Como funciona?**
 
 Basta fornecer ao sistema uma lista de ingredientes que você possui, quando for solicitado, e o tipo de refeição que deseja preparar (ex: "almoço", "janta", "sobremesa"). 
 <br>
