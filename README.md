@@ -1,6 +1,5 @@
 # Kitchen-AI
 ![KitchenAI - Imagem gerada no Leonardo.AI](./Default_A_cartoon_robot_wearing_chef_clothes_gourmet_hat_has_a_2.png)
-(gerado pelo Leonardo.AI)
 
 ### **O Chef de IA que te guia passo a passo!**
 
@@ -41,3 +40,5 @@ Utilizando algumas técnicas de **prompt engineering**, o sistema gera um passo 
 ---
 
 **Observação:** Este projeto ainda está em desenvolvimento, novas funcionalidades e melhorias podem ser adicionadas em breve como por exemplo incluir um sistema que recebe uma foto da geladeira, identifica quais itens ela possui e já processa a listagem dando o que pode ser feito.
+
+Ps: Todas as imagens atualmente no projeto foram feitas através do leonardo.ai
