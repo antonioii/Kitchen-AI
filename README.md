@@ -9,7 +9,7 @@ Este projeto foi desenvolvido durante a **Imersão Dev**, utilizando os conhecim
    
 ---
 
-## **Como funciona?**
+### **Como funciona?**
 
 Basta fornecer ao sistema uma lista de ingredientes que você possui, quando for solicitado, e o tipo de refeição que deseja preparar (ex: "almoço", "janta", "sobremesa"). 
 <br>
@@ -35,4 +35,7 @@ Utilizando algumas técnicas de **prompt engineering**, o sistema gera um passo 
 **Fique à vontade para explorar e contribuir para o projeto!**
 <br>
 <br>
+
+---
+
 **Observação:** Este projeto ainda está em desenvolvimento, novas funcionalidades e melhorias podem ser adicionadas em breve como por exemplo incluir um sistema que recebe uma foto da geladeira, identifica quais itens ela possui e já processa a listagem dando o que pode ser feito.
