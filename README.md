@@ -39,6 +39,12 @@ Utilizando algumas técnicas de **prompt engineering**, o sistema gera um passo 
 
 ---
 
+### Link para o Colab:
+https://github.com/antonioii/Kitchen-AI/blob/main/Kitchen_AI.ipynb
+<br>
+
+---
+
 **Observação:** Este projeto ainda está em desenvolvimento, novas funcionalidades e melhorias podem ser adicionadas em breve como por exemplo incluir um sistema que recebe uma foto da geladeira, identifica quais itens ela possui e já processa a listagem dando o que pode ser feito.
 
 Ps: Todas as imagens atualmente no projeto foram feitas através do leonardo.ai
