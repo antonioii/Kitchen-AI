@@ -3,7 +3,7 @@
 
 ### **O Chef de IA que te guia passo a passo!**
 
-Este projeto foi desenvolvido durante a **Imersão Dev** de IA da Alura em parceria com o Google (maio/2024), utilizando os conhecimentos adquiridos até a aula 4 sobre o uso da API do Gemini (Google ©), e o mais impressionante: **em apenas uma hora!** 🤯 (aproximadamente, eu gostaria de ter tido mais tempo, mas isso já mostra o quão poderosa é essa ferramenta).
+Este projeto foi desenvolvido durante a **Imersão Dev** de IA da Alura em parceria com o Google (maio/2024), utilizando os conhecimentos adquiridos até a aula 4 sobre o uso da API do Gemini (Google ©), e o mais impressionante: **em apenas uma hora!** (aproximadamente 🤯, isso não é um motivo para se gabar, eu gostaria de ter tido mais tempo, mas isso mostra o quão poderosa é essa ferramenta).
 
 <br>
 > O Kitchen-AI é um sistema de inteligência artificial que te ajuda a cozinhar, com instruções claras e detalhadas. 
@@ -45,6 +45,6 @@ https://github.com/antonioii/Kitchen-AI/blob/main/Kitchen_AI.ipynb
 
 ---
 
-**Observação:** Este projeto ainda está em desenvolvimento, novas funcionalidades e melhorias podem ser adicionadas em breve como por exemplo incluir um sistema que recebe uma foto da geladeira, identifica quais itens ela possui e já processa a listagem dando o que pode ser feito.
+**Observação:** Este projeto ainda está em desenvolvimento, novas funcionalidades e melhorias podem ser adicionadas com o tempo, por exemplo, pode-se incluir um sistema que recebe uma foto da geladeira, identifica quais itens ela possui através de visão computacional (algo oferecido pelo próprio Gemini do Google) e já processa a listagem dando o que pode ser feito.
 
-Ps: Todas as imagens atualmente no projeto foram feitas através do leonardo.ai
+Ps: Todas as imagens atualmente no projeto foram feitas através do Leonardo.Ai
